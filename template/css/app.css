@@ -1,0 +1,17 @@
+.contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 2rem;
+    border-radius: 2rem;
+}
+
+label {
+    color: #fff;
+}
